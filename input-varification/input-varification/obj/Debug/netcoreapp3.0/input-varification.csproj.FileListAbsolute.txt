@@ -1,0 +1,11 @@
+C:\repos2\fun-with-regex\input-varification\input-varification\bin\Debug\netcoreapp3.0\input-varification.exe
+C:\repos2\fun-with-regex\input-varification\input-varification\bin\Debug\netcoreapp3.0\input-varification.deps.json
+C:\repos2\fun-with-regex\input-varification\input-varification\bin\Debug\netcoreapp3.0\input-varification.runtimeconfig.json
+C:\repos2\fun-with-regex\input-varification\input-varification\bin\Debug\netcoreapp3.0\input-varification.runtimeconfig.dev.json
+C:\repos2\fun-with-regex\input-varification\input-varification\bin\Debug\netcoreapp3.0\input-varification.dll
+C:\repos2\fun-with-regex\input-varification\input-varification\bin\Debug\netcoreapp3.0\input-varification.pdb
+C:\repos2\fun-with-regex\input-varification\input-varification\obj\Debug\netcoreapp3.0\input-varification.AssemblyInfoInputs.cache
+C:\repos2\fun-with-regex\input-varification\input-varification\obj\Debug\netcoreapp3.0\input-varification.AssemblyInfo.cs
+C:\repos2\fun-with-regex\input-varification\input-varification\obj\Debug\netcoreapp3.0\input-varification.dll
+C:\repos2\fun-with-regex\input-varification\input-varification\obj\Debug\netcoreapp3.0\input-varification.pdb
+C:\repos2\fun-with-regex\input-varification\input-varification\obj\Debug\netcoreapp3.0\input-varification.csprojAssemblyReference.cache
